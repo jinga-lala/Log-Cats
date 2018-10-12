@@ -1,19 +1,17 @@
 # Log-Cats
 Codefundo++ 2018
 
-
-				#Project Name
+##Project Name
 				
-				
-				 #   Team : Log Cats
+##Team : Log Cats
 				 
-Problem
+###Problem
 
 
 In this age of mobile phones, we are so deeply dependent on cellular connectivity that a momentary lapse can create a cause for panic. Whenever any region faces any natural calamity the first thing that get disrupted is the cellular connection between the mobile phones. This not only aggravates the panic among the masses but also make it difficult for the rescue team to save the lives of the stranded people.
 
 
-Our Idea and Implementation Details
+###Our Idea and Implementation Details
 
 
 We propose to design and deploy an Android application which aims to tackle the problem of communication during disasters, mainly where usual cellular networks are affected.
@@ -28,7 +26,7 @@ The mesh network also has the capability to broadcast the location of nearby dev
 Proposed Implementation
 
 
-Future version
+###Future version
 
 
 The platform can not only be used for communicating locations, but also for messaging without internet. The implementation for this feature is more involved, as it would require storing all messages encountered by the phone, and syncing the messages between various phones. Further, we can also make the application more secure by giving users greater control over whom to share their locations or messages with, though this may not be relevant to a disaster like situation. 
