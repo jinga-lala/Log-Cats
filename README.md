@@ -1,7 +1,7 @@
 # Log-Cats
 Codefundo++ 2018
-				Project Name
-				    Team : Log Cats
+				##Project Name
+				 #   Team : Log Cats
 Problem
 In this age of mobile phones, we are so deeply dependent on cellular connectivity that a momentary lapse can create a cause for panic. Whenever any region faces any natural calamity the first thing that get disrupted is the cellular connection between the mobile phones. This not only aggravates the panic among the masses but also make it difficult for the rescue team to save the lives of the stranded people.
 Our Idea and Implementation Details
