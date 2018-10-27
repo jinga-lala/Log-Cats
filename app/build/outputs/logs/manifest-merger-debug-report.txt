@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a4e4238ff75afc68a4ba1148aed75015/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sagar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6dc7446e563ce51dddeb1d8759cb0f10/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cbea8f773689d53489d7691e01de06dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5998247596686fb056f3123568f18062/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2b43cc09d2f40fed8d41de1bb40a73f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/380d7cb7cfd3686b710b83d813906ddf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/130b9dcc129a99fe8998c6688df521e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/50ee42aa722e0150c7c2b31da8990925/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sagar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b8851db80d01d60a02aff4d16694297a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sagar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a7870c0ff5fcc34258d35c1fd5354f56/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sagar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/92311a55d0d98402b5491611923fd5c9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/sagar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a8cabe01378536d7b2023c18a5165965/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:4:5-6:67
+	android:required
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:5:9-32
+	android:name
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:6:9-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:7:5-9:62
+	android:required
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:8:9-32
+	android:name
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:9:9-60
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:10:5-12:62
+	android:required
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:12:9-60
+application
+ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:13:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sagar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6dc7446e563ce51dddeb1d8759cb0f10/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sagar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6dc7446e563ce51dddeb1d8759cb0f10/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:19:9-40
+activity#io.codefundo.logcats.glimmer.MainActivity
+ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
+INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a4e4238ff75afc68a4ba1148aed75015/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a4e4238ff75afc68a4ba1148aed75015/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sagar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6dc7446e563ce51dddeb1d8759cb0f10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sagar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6dc7446e563ce51dddeb1d8759cb0f10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cbea8f773689d53489d7691e01de06dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/cbea8f773689d53489d7691e01de06dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5998247596686fb056f3123568f18062/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5998247596686fb056f3123568f18062/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2b43cc09d2f40fed8d41de1bb40a73f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2b43cc09d2f40fed8d41de1bb40a73f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/380d7cb7cfd3686b710b83d813906ddf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/380d7cb7cfd3686b710b83d813906ddf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/130b9dcc129a99fe8998c6688df521e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/130b9dcc129a99fe8998c6688df521e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/50ee42aa722e0150c7c2b31da8990925/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/sagar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/50ee42aa722e0150c7c2b31da8990925/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sagar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b8851db80d01d60a02aff4d16694297a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/sagar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b8851db80d01d60a02aff4d16694297a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sagar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a7870c0ff5fcc34258d35c1fd5354f56/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/sagar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a7870c0ff5fcc34258d35c1fd5354f56/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sagar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/92311a55d0d98402b5491611923fd5c9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/sagar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/92311a55d0d98402b5491611923fd5c9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/sagar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a8cabe01378536d7b2023c18a5165965/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/sagar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a8cabe01378536d7b2023c18a5165965/AndroidManifest.xml:20:5-44
+INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
+INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
+		ADDED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sagar/SSL/workspace/android/Log-Cats/app/src/main/AndroidManifest.xml
